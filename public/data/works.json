@@ -1,0 +1,115 @@
+[{
+    "project": "project01-mobile-YHD-(pls-use-chrome-to-get-best-user-expirence)",
+    "page": [{
+        "title": "首页",
+        "name": "v2-01-1.html"
+    }, {
+        "title": "列表",
+        "name": "v2-02-N.html"
+    }, {
+        "title": "购物车",
+        "name": "v2-04-02-1.html"
+    }, {
+        "title": "促销",
+        "name": "v2-06-cms.html"
+    }, {
+        "title": "列表2",
+        "name": "v2-07-02-.html"
+    }, {
+        "title": "属性选择",
+        "name": "v2-12-.html"
+    }, {
+        "title": "商品简介",
+        "name": "v2-09-01-.html"
+    }, {
+        "title": "收货地址",
+        "name": "v2-15-02-.html"
+    }, {
+        "title": "确认订单",
+        "name": "v2-15-01-.html"
+    }]
+}, {
+    "project": "project02-groupon",
+    "page": [{
+        "title": "首页",
+        "name": "v2-index-grou.html"
+    }, {
+        "title": "详情页",
+        "name": "v2-detail.html"
+    }, {
+        "title": "列表1",
+        "name": "v2-index_brand.html"
+    }, {
+        "title": "列表2",
+        "name": "v2-index_brand_list.html"
+    }, {
+        "title": "列表3",
+        "name": "v2-grou-ready.html"
+    }, {
+        "title": "列表4",
+        "name": "v2-entertainment.html"
+    }]
+}, {
+    "project": "project03-EDM",
+    "page": [{
+        "title": "模板1",
+        "name": "011.html"
+    }, {
+        "title": "模板2",
+        "name": "03.html"
+    }]
+}, {
+    "project": "project04-app-download-page",
+    "page": [{
+        "title": "IPhone",
+        "name": "iphone.html"
+    }, {
+        "title": "Android",
+        "name": "android.html"
+    }, {
+        "title": "IPad",
+        "name": "ipad.html"
+    }, {
+        "title": "Website",
+        "name": "website.html"
+    }]
+}, {
+    "project": "project05-YHD-information-system",
+    "page": [{
+        "title": "首页",
+        "name": "businessIndexYhd.html"
+    }, {
+        "title": "详情页",
+        "name": "detail.html"
+    }, {
+        "title": "列表",
+        "name": "newsList.html"
+    }]
+}, {
+    "project": "project06-comment-and-get-gift",
+    "page": [{
+        "title": "创建",
+        "name": "create.html"
+    }, {
+        "title": "管理",
+        "name": "manage.html"
+    }]
+}, {
+    "project": "project07-YHD-union-one-key",
+    "page": [{
+        "title": "首页",
+        "name": "one-key.html"
+    }]
+}, {
+    "project": "project08-product-comment",
+    "page": [{
+        "title": "评论",
+        "name": "comment.html"
+    }]
+}, {
+    "project": "project09-theme-buy",
+    "page": [{
+        "title": "首页",
+        "name": "theme-buy.html"
+    }]
+}]
